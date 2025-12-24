@@ -1,4 +1,5 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
+Reference number:25007289
 
 **AIM:**
 
@@ -36,19 +37,27 @@ It is the look-back resistance across the load terminals when all the sources ar
 
 To measure IL
 
-<img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
+<img width="738" height="446" alt="image" src="https://github.com/user-attachments/assets/415195bd-119b-446c-9d35-f9f4ac6f5921" />
+
 
 To measure RTh or RN
+<img width="738" height="332" alt="image" src="https://github.com/user-attachments/assets/f5f358e3-2dcb-4adb-9748-9245a853514a" />
 
-<img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
 
 To measure VTh or Voc
+<img width="738" height="456" alt="image" src="https://github.com/user-attachments/assets/f02e1812-e507-49af-befc-d2b372b83197" />
 
-<img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
+
 
 Thevenin’s equivalent circuit
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/da178513-f85d-469c-9165-48a64d22e411" />
 
-<img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+**TABULATION**
+![WhatsApp Image 2025-12-24 at 09 20 16](https://github.com/user-attachments/assets/c1dd7df1-fa58-482c-b5fd-4ac69b67411d)
+
+**CALCULATION**
+<img width="720" height="392" alt="image" src="https://github.com/user-attachments/assets/d38e62cc-8469-4a46-92ca-4e611d55fd23" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/0a98680b-847a-4825-ad96-7b55da9978a2" />
 
 
 **PROCEDURE:**

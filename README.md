@@ -41,6 +41,8 @@ To measure IL
 
 
 To measure RTh or RN
+
+
 <img width="738" height="332" alt="image" src="https://github.com/user-attachments/assets/f5f358e3-2dcb-4adb-9748-9245a853514a" />
 
 
@@ -50,12 +52,16 @@ To measure VTh or Voc
 
 
 Thevenin’s equivalent circuit
+
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/da178513-f85d-469c-9165-48a64d22e411" />
 
 **TABULATION**
+
 ![WhatsApp Image 2025-12-24 at 09 20 16](https://github.com/user-attachments/assets/c1dd7df1-fa58-482c-b5fd-4ac69b67411d)
 
 **CALCULATION**
+
+
 <img width="720" height="392" alt="image" src="https://github.com/user-attachments/assets/d38e62cc-8469-4a46-92ca-4e611d55fd23" />
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/0a98680b-847a-4825-ad96-7b55da9978a2" />
 

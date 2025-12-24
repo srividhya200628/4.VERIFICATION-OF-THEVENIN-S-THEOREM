@@ -47,6 +47,7 @@ To measure RTh or RN
 
 
 To measure VTh or Voc
+
 <img width="738" height="456" alt="image" src="https://github.com/user-attachments/assets/f02e1812-e507-49af-befc-d2b372b83197" />
 
 
